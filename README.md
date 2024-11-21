@@ -10,7 +10,6 @@ The system utilizes EMG signals to classify hand gestures for applications such 
 - **Real-time EMG signal processing**: Processing and classification of EMG signals captured from the skin's surface.
 - **Embedded system**: A microcontroller-based system for signal acquisition, processing, and classification.
 - **Hand gesture classification**: Using a trained Support Vector Machine (SVM) model for classifying different hand gestures.
-- **Non-invasive design**: Surface electrodes are used for capturing EMG signals, reducing user discomfort and risk.
   
 ## Contents
 
